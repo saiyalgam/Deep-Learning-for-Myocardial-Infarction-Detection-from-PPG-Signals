@@ -1,0 +1,2 @@
+# Deep-Learning-for-Myocardial-Infarction-Detection-from-PPG-Signals
+This project presents a complete end-to-end pipeline for detecting Myocardial Infarction (MI) from Photoplethysmography (PPG) signals using advanced wavelet-based time–frequency modeling and deep transfer learning. The goal is to explore whether simple, wearable-friendly PPG sensors can be used for early cardiac risk assessment using AI.
